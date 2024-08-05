@@ -1,0 +1,39 @@
+
+.cat-img {
+    max-height: 300px;
+    max-width: 300px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: Calibri, sans-serif;
+
+}
+
+h1 {
+    color: dodgerblue;
+}
+
+article {
+    display: block;
+    border: 3px solid;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 5px;
+    max-width: 750px;
+}
+
+.article-1 {
+    background: dodgerblue;
+}
+
+.article-2 {
+    background: lightcoral;
+}
+
+.article-3 {
+    background: lawngreen;
+}
